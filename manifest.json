@@ -1,0 +1,62 @@
+{
+  "rings": [
+    {
+      "file": "assets/ozon-product-images/rings/01-main.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 107879
+    },
+    {
+      "file": "assets/ozon-product-images/rings/02-angle.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 106164
+    },
+    {
+      "file": "assets/ozon-product-images/rings/03-layout.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 89587
+    },
+    {
+      "file": "assets/ozon-product-images/rings/04-detail.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 123158
+    }
+  ],
+  "seals": [
+    {
+      "file": "assets/ozon-product-images/seals/01-main.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 112494
+    },
+    {
+      "file": "assets/ozon-product-images/seals/02-angle.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 108100
+    },
+    {
+      "file": "assets/ozon-product-images/seals/03-package.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 96516
+    },
+    {
+      "file": "assets/ozon-product-images/seals/04-detail.jpg",
+      "width": 1200,
+      "height": 1200,
+      "format": "jpeg",
+      "bytes": 125231
+    }
+  ]
+}
